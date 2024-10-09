@@ -6,8 +6,18 @@
     <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="200px">
 </div>
 
-
 ![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<div align="center">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vre827bz1cbfov5d6k5z7dwi6&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vre827bz1cbfov5d6k5z7dwi6&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vre827bz1cbfov5d6k5z7dwi6&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=vre827bz1cbfov5d6k5z7dwi6&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Data Card for Spotify">
+</a>
+</div>
+
+
+
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protyaymnd50&label=Profile%20views&color=0e75b6&style=flat" alt="protyaymnd50" /> </p>
