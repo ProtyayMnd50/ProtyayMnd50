@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Protyay Mondal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<div align="center" display="flex">
+    <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="200px">
+    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="200px">
+</div>
+
+
+![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protyaymnd50&label=Profile%20views&color=0e75b6&style=flat" alt="protyaymnd50" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protyaymnd50" alt="protyaymnd50" /></a> </p>
