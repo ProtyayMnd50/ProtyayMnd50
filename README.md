@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Protyay Mondal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <div align="center" display="flex">
     <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="200px">
