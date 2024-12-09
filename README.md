@@ -1,14 +1,22 @@
-![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241209T213305Z&X-Amz-Expires=300&X-Amz-Signature=6c26358f2b953720e69d87a1c822c1fbed2f87ea7cc72381d26e9a5d83c23df2&X-Amz-SignedHeaders=host">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=19F733&width=435&lines=Lucknow+vibes%2C+full-stack+grind%2C;that%E2%80%99s+me%2C+Protyay!+%F0%9F%9A%80%F0%9F%8E%B2;Nice+to+meet+you!" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Protyay Mondal</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">"Crafting code, conquering games—Protyay Mondal, live from Lucknow. 🎲✨"</h3>
 
-- 🌱 I’m currently learning **NextJS and Typescript**
+- 🔭 I’m currently working on [JobHub](https://github.com/ProtyayMnd50/JobHub)
+
+- 🌱 I’m currently learning **GSAP, ElasticSearch, Langchain**
+
+- 💬 Ask me about **Cloud tech, Full stack in general**
+
 - 📫 How to reach me **protyaymondal32@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=protyaymnd50&label=Profile%20views&color=0e75b6&style=flat" alt="protyaymnd50" /> </p>
+- 📄 Know about my experiences [:arrow_right:](https://tinyurl.com/ProtyayMondalResume)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protyaymnd50" alt="protyaymnd50" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 
 
 <div align="center" display="flex">
