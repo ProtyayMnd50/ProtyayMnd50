@@ -1,5 +1,5 @@
 ![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=19F733&width=435&lines=Lucknow+vibes%2C+full-stack+grind%2C;that%E2%80%99s+me%2C+Protyay!+%F0%9F%9A%80%F0%9F%8E%B2;Nice+to+meet+you!" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Protyay Mondal</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
