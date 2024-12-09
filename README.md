@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241209T213305Z&X-Amz-Expires=300&X-Amz-Signature=6c26358f2b953720e69d87a1c822c1fbed2f87ea7cc72381d26e9a5d83c23df2&X-Amz-SignedHeaders=host">
+[![github-banner.webp](https://i.postimg.cc/k49qXSpn/github-banner.webp)](https://postimg.cc/bG6KmZPM)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=500&color=19F733&width=435&lines=Lucknow+vibes%2C+full-stack+grind%2C;that%E2%80%99s+me%2C+Protyay!+%F0%9F%9A%80%F0%9F%8E%B2;Nice+to+meet+you!" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Protyay Mondal</h1>
 <h3 align="center">"Crafting code, conquering games—Protyay Mondal, live from Lucknow. 🎲✨"</h3>
