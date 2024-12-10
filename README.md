@@ -13,9 +13,6 @@
 
 - 📄 Know about my experiences [:arrow_right:](https://tinyurl.com/ProtyayMondalResume)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 
 
